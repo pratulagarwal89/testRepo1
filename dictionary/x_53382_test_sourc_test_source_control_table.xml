@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Source Control Table" max_length="40" name="x_53382_test_sourc_test_source_control_table" type="collection"/>
+</database>
